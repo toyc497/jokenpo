@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.one{
+    background-color: #808080;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 110px;
+    border-radius: 15px;
+}
+.tela{
+    background-color: #ffffff;
+    color: rgb(33, 91, 218);
+    width: 350px;
+    height: 150px;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 20px;
+}
+/*_______________*/
+.botao_pedra{
+    width: 300px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 20px 50px 0px;
+    color: #ffffff;   
+    font-size: 17px; 
+    border-color: #ffffff;                                                                                                                                                                                                            ;
+}             
+.botao_pedra:hover{
+    color: greenyellow;
+    margin: 18px 52px 2px;
+}   
+/*_______________*/
+.botao_papel{
+    width: 300px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 20px 50px 0px;
+    color: #ffffff;   
+    font-size: 17px; 
+    border-color: #ffffff; 
+}   
+.botao_papel:hover{
+    color: greenyellow;
+    margin: 18px 52px 2px;
+}    
+/*_______________*/ 
+.botao_tesoura{
+    width: 300px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 20px 50px 0px;
+    color: #ffffff;   
+    font-size: 17px; 
+    border-color: #ffffff; 
+}   
+.botao_tesoura:hover{
+    color: greenyellow;
+    margin: 18px 52px 0px;
+}   
+/*_______________*/    
